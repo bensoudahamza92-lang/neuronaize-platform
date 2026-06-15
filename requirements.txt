@@ -1,0 +1,11 @@
+altair
+faiss-cpu
+joblib
+kneed
+numpy
+openpyxl
+pandas
+pydantic
+scikit-learn
+scikit-learn-extra
+streamlit
